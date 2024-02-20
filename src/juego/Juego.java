@@ -13,9 +13,6 @@ import java.util.Scanner;
  */
 public class Juego {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         try {
             Scanner datos = new Scanner(System.in);
